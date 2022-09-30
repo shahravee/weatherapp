@@ -1,0 +1,29 @@
+.bgweather {
+  background: url("./images/tree-832079_1280.webp");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: white;
+  font-weight: 500;
+}
+.weatherResultBox {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.img-src {
+  width: 200px;
+  height: 100px;
+  margin-top: 2rem;
+}
+.city {
+  font-size: 35px;
+}
+.temp {
+  font-size: 55px;
+  font-weight: 700;
+}
